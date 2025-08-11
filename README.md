@@ -1,4 +1,4 @@
-# Stock-Predictor-LTBR-
+# Stock-Predictor-LTBR
 
 A Data Science Project in Python to predict the stock price of Lightbridge Corporation, a nuclear energy company.
 
